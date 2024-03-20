@@ -1,0 +1,19 @@
+{
+    "version": "6.11.2",
+    "description": "The Missing Editor for Competitive Programmers",
+    "homepage": "https://library.wit.edu.cn/info/1150/1573.htm/",
+    "license": "CC BY-SA 4.0 DEED",
+    "architecture": {
+        "64bit": {
+            "url": "https://vpn.wit.edu.cn/com/EasyConnectInstaller.exe#/dl.7z",
+            "hash": "9d108bcf8775ce61e31d86fbe6e5014907f7ec3d85d8626f38d2dc898ae7203f"
+        }
+    },
+    "bin": "EasyConnect.exe",
+    "shortcuts": [
+        [
+            "EasyConnect.exe",
+            "EasyConnect"
+        ]
+    ]
+}
