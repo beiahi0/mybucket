@@ -5,13 +5,14 @@
     "license": "CC BY-SA 4.0 DEED",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-setup.exe#/dl.7z",
+            "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-portable.zip",
             "bin": [
                 "cpeditor.exe"
             ],
-            "hash": "9a429f0d99494229d773a90d85e438109b468b44ad6d67f18d468bc9b7bde781"
+            "hash": "e928e2f68a9b091fe4051464c99e3e8c1ec69f69a58f538739239041851ba6f3"
         }
     },
+    "innosetup": true,
     "shortcuts": [
         [
             "cpeditor.exe",
@@ -25,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x64-setup.exe#/dl.7z"
+                "url": "https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-6.11.2-windows-x64-portable.zip"
             }
         }
     }
