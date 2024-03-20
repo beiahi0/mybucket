@@ -5,7 +5,7 @@
     "license": "CC BY-SA 4.0 DEED",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-setup.exe",
+            "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-setup.exe#/dl.7z",
             "bin": [
                 "cpeditor.exe"
             ],
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x64-setup.exe"
+                "url": "https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x64-setup.exe#/dl.7z"
             }
         }
     }
