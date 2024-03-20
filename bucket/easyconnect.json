@@ -5,7 +5,7 @@
     "license": "CC BY-SA 4.0 DEED",
     "architecture": {
         "64bit": {
-            "url": "https://vpn.wit.edu.cn/com/EasyConnectInstaller.exe#/dl.7z",
+            "url": "https://vpn.wit.edu.cn/com/EasyConnectInstaller.exe",
             "hash": "9d108bcf8775ce61e31d86fbe6e5014907f7ec3d85d8626f38d2dc898ae7203f"
         }
     },
