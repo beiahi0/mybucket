@@ -6,13 +6,9 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-portable.zip#/dl.7z",
-            "bin": [
-                "cpeditor.exe"
-            ],
-            "hash": "e928e2f68a9b091fe4051464c99e3e8c1ec69f69a58f538739239041851ba6f3"
         }
     },
-    "innosetup": true,
+    "bin": "cpeditor.exe",
     "shortcuts": [
         [
             "cpeditor.exe",
