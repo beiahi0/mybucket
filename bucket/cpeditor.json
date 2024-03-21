@@ -17,7 +17,7 @@
     ],
     "checkver": {
         "url": "https://github.com/cpeditor/cpeditor/releases/latest",
-        "regex": "CP Editor ([\\d\\.]+\\d)"
+        "regex": "CP Editor ([\\d\\.])"
     },
     "autoupdate": {
         "architecture": {
