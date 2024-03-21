@@ -1,19 +1,19 @@
 {
     "homepage": "https://github.com/lyswhut/lx-music-desktop",
     "description": "An electron-based music player",
-    "version": "2.5.0",
+    "version": "2.6.0",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.5.0/lx-music-desktop-v2.5.0-win_x64-green.7z",
+            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.6.0/lx-music-desktop-v2.6.0-win_x64-green.7z",
             "hash": "md5:5600f7e6d3c2579cf9b5574501deefe3"
         },
         "32bit": {
-            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.5.0/lx-music-desktop-v2.5.0-win7_x86-green.7z",
+            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.6.0/lx-music-desktop-v2.6.0-win7_x86-green.7z",
             "hash": "md5:8bf9904ce565e9ea34409f15bb47bbcd"
         },
         "arm64": {
-            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.5.0/lx-music-desktop-v2.5.0-win_arm64-green.7z",
+            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.6.0/lx-music-desktop-v2.6.0-win_arm64-green.7z",
             "hash": "md5:e47eeb13db6ddb7a9e606977624a528d"
         }
     },
