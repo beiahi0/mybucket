@@ -5,7 +5,7 @@
     "license": "CC BY-SA 4.0 DEED",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-portable.zip#/dl.7z",
+            "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-portable.zip#/dl.7z"
         }
     },
     "bin": "cpeditor.exe",

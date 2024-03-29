@@ -1,0 +1,19 @@
+{
+    "version": "5.11",
+    "description": "A free, portable, fast and simple C/C++ IDE",
+    "homepage": "https://cpeditor.org/",
+    "license": "CC BY-SA 4.0 DEED",
+    "architecture": {
+        "64bit": {
+            "url": "https://sourceforge.net/projects/orwelldevcpp/files/latest/download#/dl.7z",
+            "hash": "faad96bbcc51f115c9edd691785d1309e7663b67dcfcf7c11515c3d28c9c0f1f"
+        }
+    },
+    "bin": "devcpp.exe",
+    "shortcuts": [
+        [
+            "devcpp.exe",
+            "Dev-C++"
+        ]
+    ]
+}
