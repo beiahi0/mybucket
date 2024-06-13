@@ -5,8 +5,10 @@
     "license": "CC BY-SA 4.0 DEED",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/orwelldevcpp/files/latest/download#/dl.7z",
+            "url": "https://sourceforge.net/projects/orwelldevcpp/files/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe/download#/dl.7z",
             "hash": "faad96bbcc51f115c9edd691785d1309e7663b67dcfcf7c11515c3d28c9c0f1f"
+            
+
         }
     },
     "bin": "devcpp.exe",

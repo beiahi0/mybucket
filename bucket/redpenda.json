@@ -1,0 +1,19 @@
+{
+    "version": "6.7.5",
+    "description": "基于QT5开发的轻量级C++ IDE 可在Windows或Linux系统下运行",
+    "homepage": "https://gitee.com/royqh1979/Dev-CPP/",
+    "license": "GPL-3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://gitee.com/royqh1979/Dev-CPP/releases/download/v6.7.5/Dev-Cpp.6.7.5.MinGW-w64.GCC.10.3.Portable.7z",
+            "hash": "95f67d0946f24fdaf734b3d1e1a66ada4d74ca1bd1283627f807e6914ff7f34f"
+        }
+    },
+    "bin": ".exe",
+    "shortcuts": [
+        [
+            "devcpp.exe",
+            "Dev-C++"
+        ]
+    ]
+}
